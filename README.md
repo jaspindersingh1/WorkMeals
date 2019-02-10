@@ -1,4 +1,4 @@
-# Work Meal
+# Work Meal Slack Bot
 
 When lunchtime at work hits, do you ever feel like you don't know what to do? You know what you want, but should you cook and bring it in? Or go out and grab something? Work Meal to the rescue! Your new slackbot friend is available to bounce some ideas off of. Don't worry, Work Meal gets sick of the same thing everyday too, so even if you suggest pizza, Work Meal will give you a new pizza idea for each request. 
 
