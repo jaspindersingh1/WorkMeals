@@ -20,7 +20,7 @@ https://protected-shore-80118.herokuapp.com/
 * Open your terminal
 
   ```
-  git clone https://github.com/cgarcia101015/WorkMeal.git
+  git clone git@github.com:jaspindersingh1/WorkMeals.git
   cd WorkMeal
   npm install 
   ```
